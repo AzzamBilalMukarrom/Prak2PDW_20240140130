@@ -1,0 +1,6 @@
+Nama: Muh azzam bilal mukarrom
+Nim: 20240140130
+Kelas: kelas C
+Tugas 1PDW
+
+<img width="1919" height="979" alt="image" src="https://github.com/user-attachments/assets/629f749e-d8b1-4ab2-b2f3-3d8b4a8c7e3b" />
